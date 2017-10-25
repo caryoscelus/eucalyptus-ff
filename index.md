@@ -2,5 +2,5 @@
 title: eucalyptus
 ---
 
-- [i want to refuse](i-want-to-refuse.html)
-- [трава](grass.html)
+- [i want to refuse](text/i-want-to-refuse.html)
+- [трава](text/grass.html)
