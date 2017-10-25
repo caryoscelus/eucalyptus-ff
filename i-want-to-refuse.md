@@ -2,9 +2,6 @@
 title: I want to refuse
 ---
 
-I want to refuse
-================
-
 I want to refuse you. Your style, your thoughts, your miserable life as a whole.
 I want to refuse.
 
