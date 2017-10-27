@@ -2,3 +2,4 @@ defaults:
   -
     values:
       layout: "default"
+      prefix: "/eucalyptus-ff"
