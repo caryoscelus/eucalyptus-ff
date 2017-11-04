@@ -8,3 +8,4 @@ title: eucalyptus
 - [фомал хэл](text/formal-hell.html)
 - [лотос](text/lotos.html)
 - [такояки](text/takoyaki.html)
+- [виктим оф](text/victim.html)
