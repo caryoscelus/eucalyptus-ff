@@ -7,3 +7,4 @@ title: eucalyptus
 - [коробка](text/box.html)
 - [фомал хэл](text/formal-hell.html)
 - [лотос](text/lotos.html)
+- [такояки](text/takoyaki.html)
