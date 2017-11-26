@@ -6,6 +6,7 @@ title: eucalyptus
 - [фомал хэл](text/formal-hell.html)
 - [трава](text/grass.html)
 - [коробка](text/box.html)
+- [я и мои рабы](text/me-and-my-slaves.html)
 - [лотос](text/lotos.html)
 - [виктим оф](text/victim.html)
 - [i want to refuse](text/i-want-to-refuse.html)
