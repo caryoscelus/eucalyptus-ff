@@ -12,3 +12,4 @@ title: eucalyptus
 - [i want to refuse](text/i-want-to-refuse.html)
 - [так и быть](text/so-be-it.html)
 - [без солнца](text/sunless.html)
+- [завтрак](text/breakfast.html)
