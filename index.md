@@ -13,3 +13,4 @@ title: eucalyptus
 - [так и быть](text/so-be-it.html)
 - [без солнца](text/sunless.html)
 - [завтрак](text/breakfast.html)
+- [смерть мираи-сэмпай](text/death-of-mirai-sempai.html)
