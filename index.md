@@ -16,3 +16,4 @@ title: eucalyptus
 - [смерть мираи-сэмпай](text/death-of-mirai-sempai.html)
 - [река](text/river.html)
 - [так](text/so.html)
+- [there was no light](text/there-was-no-light.html)
