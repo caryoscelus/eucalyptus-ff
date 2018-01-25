@@ -15,3 +15,4 @@ title: eucalyptus
 - [завтрак](text/breakfast.html)
 - [смерть мираи-сэмпай](text/death-of-mirai-sempai.html)
 - [река](text/river.html)
+- [так](text/so.html)
