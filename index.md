@@ -17,3 +17,4 @@ title: eucalyptus
 - [река](text/river.html)
 - [так](text/so.html)
 - [there was no light](text/there-was-no-light.html)
+- [ещё фигуры](text/more-figures.html)
