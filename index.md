@@ -21,3 +21,4 @@ title: eucalyptus
 - [a few postmodernist music pieces](text/postmodernist-music-pieces.html)
 - [нельзя забывать](text/cant-forget.html)
 - [пчёлы против мёда](text/bees.html)
+- [смерть](text/death.html)
