@@ -22,3 +22,4 @@ title: eucalyptus
 - [нельзя забывать](text/cant-forget.html)
 - [пчёлы против мёда](text/bees.html)
 - [смерть](text/death.html)
+- [вкус первой](text/first-taste.html)
