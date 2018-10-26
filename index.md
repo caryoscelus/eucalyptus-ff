@@ -23,3 +23,4 @@ title: eucalyptus
 - [пчёлы против мёда](text/bees.html)
 - [смерть](text/death.html)
 - [вкус первой](text/first-taste.html)
+- [тёплым весенним утром](text/dying-dream.html)
