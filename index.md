@@ -24,3 +24,4 @@ title: eucalyptus
 - [смерть](text/death.html)
 - [вкус первой](text/first-taste.html)
 - [тёплым весенним утром](text/dying-dream.html)
+- [агрессия](text/aggression.html)
