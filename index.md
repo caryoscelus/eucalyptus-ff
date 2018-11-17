@@ -26,3 +26,4 @@ title: eucalyptus
 - [тёплым весенним утром](text/dying-dream.html)
 - [агрессия](text/aggression.html)
 - [по крайней мере](text/at-least.html)
+- [лог](text/vcs-log.html)
