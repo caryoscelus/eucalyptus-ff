@@ -27,3 +27,4 @@ title: eucalyptus
 - [агрессия](text/aggression.html)
 - [по крайней мере](text/at-least.html)
 - [лог](text/vcs-log.html)
+- [i open emacs](text/emacs.html)
