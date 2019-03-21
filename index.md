@@ -21,7 +21,7 @@ title: eucalyptus
 - [без солнца](text/sunless.html)
 - [коробка](text/box.html)
 - [i open emacs](text/emacs.html)
-- [сжигая истории](test/burn-stories.html)
+- [сжигая истории](text/burn-stories.html)
 - [так и быть](text/so-be-it.html)
 - [так](text/so.html)
 - [по крайней мере](text/at-least.html)
