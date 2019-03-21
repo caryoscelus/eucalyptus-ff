@@ -32,3 +32,4 @@ title: eucalyptus
 - [лотос](text/lotos.html)
 - [5^4](text/625.html)
 - [?](test/questions.html)
+- [автобус](text/bus.html)
