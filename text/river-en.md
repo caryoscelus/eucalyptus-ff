@@ -12,7 +12,7 @@ now. Will not be able to imagine what does it mean to enter the river.
 
 But now human stands on grassy shore, doubtfully watching stormy stream, flowing
 from nowhither to nowhere. In the river, here and there, flicker fish fins,
-float by trunks and branches, lean out and dive again someones' wet heads.
+float by logs and branches, lean out and dive again someones' wet heads.
 
 Subconsciously human understands that he is one of them, alike wet head in the
 expanses of universe, but cannot fully accept and feel it. From the shore they
