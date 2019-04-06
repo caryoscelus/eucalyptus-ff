@@ -11,7 +11,7 @@ title: eucalyptus
 - [агрессия](text/aggression.html)
 - [there was no light](text/there-was-no-light.html)
 - [смерть](text/death.html)
-- [река](text/river.html)
+- [река](text/river.html) ([literal english translation](text/river-en.html))
 - [вкус первой](text/first-taste.html)
 - [фомал хэл](text/formal-hell.html)
 - [ещё фигуры](text/more-figures.html)
