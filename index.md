@@ -34,3 +34,4 @@ title: eucalyptus
 - [?](test/questions.html)
 - [автобус](text/bus.html)
 - [портрет на полтысячи слов](text/portrait-500.html)
+- [clown](text/clown.html)
