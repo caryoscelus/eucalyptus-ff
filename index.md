@@ -36,3 +36,4 @@ title: eucalyptus
 - [портрет на полтысячи слов](text/portrait-500.html)
 - [clown](text/clown.html)
 - [пустота](text/void.html)
+- [курица](text/chicken.html)
