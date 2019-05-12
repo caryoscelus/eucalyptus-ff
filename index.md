@@ -37,3 +37,4 @@ title: eucalyptus
 - [clown](text/clown.html)
 - [пустота](text/void.html)
 - [курица](text/chicken.html)
+- [apple for judas](text/apple-for-judas.html)
