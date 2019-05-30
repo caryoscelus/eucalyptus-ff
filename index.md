@@ -39,3 +39,4 @@ title: eucalyptus
 - [курица](text/chicken.html)
 - [apple for judas](text/apple-for-judas.html)
 - [скрипка скрипит](text/violin.html)
+- [оруженосец](text/squire.html)
