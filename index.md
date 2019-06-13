@@ -40,3 +40,4 @@ title: eucalyptus
 - [без солнца](text/sunless.html)
 - [агрессия](text/aggression.html)
 - [ещё фигуры](text/more-figures.html)
+- [хорошо быть писателем](text/good-to-be-a-writer.html)
