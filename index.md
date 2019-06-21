@@ -42,3 +42,4 @@ title: eucalyptus
 - [ещё фигуры](text/more-figures.html)
 - [хорошо быть писателем](text/good-to-be-a-writer.html)
 - [этюд из жизни бобовых](text/etude-from-fabaceae-life.html)
+- [колодец](text/well.html)
