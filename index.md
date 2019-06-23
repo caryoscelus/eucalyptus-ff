@@ -44,3 +44,4 @@ title: eucalyptus
 - [этюд из жизни бобовых](text/etude-from-fabaceae-life.html)
 - [колодец](text/well.html)
 - [иногда я просыпаюсь](text/sometimes-i-wake-up.html)
+- [на вечерней скамейке](text/on-the-evening-bench.html)
