@@ -48,3 +48,4 @@ title: eucalyptus
 - [прогулка по](text/walk-in.html)
 - [взрослые](text/adults.html)
 - [вождение в пьяном виде](text/drunken-driving.html)
+- [абстрактно](text/abstract.html)
