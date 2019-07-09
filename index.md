@@ -49,3 +49,4 @@ title: eucalyptus
 - [взрослые](text/adults.html)
 - [вождение в пьяном виде](text/drunken-driving.html)
 - [абстрактно](text/abstract.html)
+- [утро](text/morning.html)
