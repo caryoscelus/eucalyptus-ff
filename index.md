@@ -51,3 +51,4 @@ title: eucalyptus
 - [apple for judas](text/apple-for-judas.html)
 - [пчёлы против мёда](text/bees.html)
 - [допустим](text/lets-assume.html)
+- [favourite sit](text/favourite-sit.html)
