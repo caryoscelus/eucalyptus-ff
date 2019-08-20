@@ -52,3 +52,4 @@ title: eucalyptus
 - [пчёлы против мёда](text/bees.html)
 - [допустим](text/lets-assume.html)
 - [favourite sit](text/favourite-sit.html)
+- [магаз](text/shop.html)
