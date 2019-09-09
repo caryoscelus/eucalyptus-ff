@@ -54,3 +54,4 @@ title: eucalyptus
 - [favourite sit](text/favourite-sit.html)
 - [магаз](text/shop.html)
 - [как и ожидалось](text/as-was-expected.html)
+- [выходной](text/holyday.html)
