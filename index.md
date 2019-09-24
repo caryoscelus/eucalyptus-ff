@@ -55,3 +55,4 @@ title: eucalyptus
 - [магаз](text/shop.html)
 - [как и ожидалось](text/as-was-expected.html)
 - [выходной](text/holyday.html)
+- [без таланта](text/without-talent.html)
