@@ -2,7 +2,10 @@
 title: По паркету
 ---
 
-<audio src="eucalyptus/audio/along-parquet.ogg" controls></audio>
+<audio controls>
+  <source src="eucalyptus/audio/along-parquet.ogg"/>
+  <source src="../audio/along-parquet.ogg"/>
+</audio>
 
 Только трава по паркету. Шторы зашторены, окна-двери на замках. Зажигалка лежит
 и ждёт своего часа. Я тоже чего-то жду. Если леопард не придёт в эти джунгли,
