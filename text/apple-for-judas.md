@@ -20,10 +20,10 @@ few circular motions with my hand, observe clear transparent liquid in faceted
 glass. Then I put it back and continue.
 
 — Every time i think about it, i never fail to be astonished. How can it be so
-perfect?  Perhaps, it is the music. The music makes up the emotional texture,
-and then the visuals are laid harmoniously on top, — i make a gesture, intended
-to symbolize these layers; it doesn't turn out very convincing. — If i have to
-be honest, actors' performance is a bit over-dramatized, but i never feel that
+perfect? Perhaps, it is the music. The music makes up the emotional texture, and
+then the visuals are laid harmoniously on top, — i make a gesture, intended to
+symbolize these layers; it doesn't turn out very convincing. — If i have to be
+honest, actors' performance is a bit over-dramatized, but i never feel that
 during watching. It is still harmonious, and it is cut neatly, creating a
 perfect stream; i can only notice its artifice when i'm out.
 
