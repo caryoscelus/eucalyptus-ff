@@ -61,3 +61,4 @@ title: eucalyptus
 - [conversation](text/conversation.html)
 - [по паркету](text/along-parquet.html)
 - [вкус кофе](text/coffee-taste.html)
+- [вечер кино](text/movie-evening.html)
