@@ -63,3 +63,4 @@ title: eucalyptus
 - [вождение в пьяном виде](text/drunken-driving.html)
 - [такояки](text/takoyaki.html)
 - [на столе](text/on-the-table.html)
+- [продолжу писать](text/continue-to-write.html)
