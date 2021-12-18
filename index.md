@@ -28,7 +28,7 @@ title: eucalyptus
 - [без солнца](text/sunless.html)
 - [favourite sit](text/favourite-sit.html)
 - [так](text/so.html)
-- [?](test/questions.html)
+- [?](text/questions.html)
 - [допустим](text/lets-assume.html)
 - [по паркету](text/along-parquet.html)
 - [сопторяптус магиме](text/soptoryaptus.html)
