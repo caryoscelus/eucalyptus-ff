@@ -66,3 +66,4 @@ title: eucalyptus
 - [продолжу писать](text/continue-to-write.html)
 - [improvisation](text/improvisation.html)
 - [мы смеёмся](text/we-laugh.html)
+- [дитя ночи](text/night-child.html)
