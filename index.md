@@ -69,3 +69,4 @@ title: eucalyptus
 - [дитя ночи](text/night-child.html)
 - [привет](text/privet.html)
 - [подарок](text/present.html)
+- [сочинение](text/essay.html)
