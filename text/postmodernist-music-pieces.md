@@ -22,7 +22,7 @@ deliberately, the resulting performances should be counted as one last
 performance of this piece.
 
 Additionally, only acoustic instruments can be used for performance. No
-recording of performances of this piece can be considered to have anything to
+recording of performances of this piece can be considered to have anything to do
 with this piece. It cannot be called "a recording of this piece" or be used to
 get acquainted with it. The only valid way to experience this piece is to hear
 one of its performances first hand.
