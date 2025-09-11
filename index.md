@@ -71,3 +71,4 @@ title: eucalyptus
 - [подарок](text/present.html)
 - [сочинение](text/essay.html)
 - [красные и чёрные](text/redblack.html)
+- [человек и камень](text/human-and-rock.html)
